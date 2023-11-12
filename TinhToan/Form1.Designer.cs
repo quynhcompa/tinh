@@ -117,6 +117,7 @@
             this.btcong.TabIndex = 6;
             this.btcong.Text = "+";
             this.btcong.UseVisualStyleBackColor = true;
+            this.btcong.Click += new System.EventHandler(this.btcong_Click);
             // 
             // bttru
             // 
